@@ -6,7 +6,7 @@ Official releases and updates for KODEK.
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3200&pause=3000&color=7F3FBF&center=true&vCenter=true&repeat=true&width=500&height=80&lines=KODEK"
-    alt="KODEK"
+    alt="KODEK WIP"
   />
 </p>
 
