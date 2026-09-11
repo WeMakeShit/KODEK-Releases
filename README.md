@@ -1,5 +1,5 @@
 # KODEK Releases
-- Currently under development
+- Currently under early development
 
 Official releases and updates for KODEK.
 -
