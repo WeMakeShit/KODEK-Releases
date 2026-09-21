@@ -32,7 +32,6 @@ It’s about giving you more control over your experience and more freedom to en
 
  Join the KODEK community!
 
-https://dsicord.gg/ur9JEB2xvC
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5T5259C2I)
